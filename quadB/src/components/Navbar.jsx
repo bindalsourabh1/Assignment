@@ -22,7 +22,7 @@ export default function Navbar() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            quadB Internship Task
+            MovieMate
           </Typography>
           <Button color="inherit">API</Button>
         </Toolbar>
